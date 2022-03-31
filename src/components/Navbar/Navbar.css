@@ -1,0 +1,51 @@
+.navbar{
+    background-color: #052142;
+    
+    height: 80px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 2px solid #e7c76d;
+
+}
+.logo{
+    color: white;
+    font-size: 32px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.logo:hover{
+    color:#11cf90;
+}
+
+.nav-links{
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+    width: 75%;
+}
+.cart,
+.signup,
+.login,
+.admin {
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 0 10px;
+    cursor: pointer;
+}
+.cart{
+    color: #e7c76d;
+}
+.cart:hover{
+    color: #11cf90;
+}
+
+.nav-links li:hover{
+    color: #e7c76d;
+}
+.admin li:hover{
+    color: #e7c76d;
+}

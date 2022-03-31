@@ -1,0 +1,18 @@
+.dangky{
+    margin: 100 auto;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #052142;
+    margin-top: 30px;
+    height: 60vh;
+    font-size: 20px;
+    font-weight: 700;
+    color: red;
+}
+.form-input-login{
+    color: #11cf90;
+    text-decoration: none;
+}
+

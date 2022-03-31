@@ -1,0 +1,42 @@
+
+.form {
+    background-color: #052142;
+    width: 100%;
+}
+.form h1{
+    color: #11cf90;
+    justify-content: center;
+    text-align: center;
+}
+.form-inputs{
+    box-shadow: 0 0 6px 0 rgba(0,115,230,0.3);
+    text-align: center;
+    justify-content: center;
+    text-align: center;
+    width: 22rem;
+    width: 100%;
+    height: auto;
+    border-radius: 2px;
+    
+}
+.form-label{
+    font-weight: 700px;
+    color: #dddddd;
+}
+.form-inputs input{
+    margin: 20px 50px;
+    padding: 5px 20px;
+}
+button.form-input-btn{
+    width: 100%;
+    padding: 10px 50px;
+    text-align: center;
+    background-color: #11cf90;
+}
+.form-input-btn{
+    font-weight: 700px;
+    font-size: 15px;
+}
+.form button:hover{
+
+}
